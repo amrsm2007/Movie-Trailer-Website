@@ -4,7 +4,7 @@ this content, producing a website to showcase your favorite movies
 ======
 You can now create a list of your  movies objects in entertainment_center.py
 
-the run it your shell to creat html file contain your favorite movies and you can show there trailer by clinving on movie image
+then run it on your shell to creat html file contain your favorite movies and you can show there trailer by clinving on movie image
 
 =====
 
